@@ -1,6 +1,6 @@
 # Spryker Feature: Marketplace Shipment
 
-
+The Marketplace orders are split into several shipments based on the merchants from which the items were bought.  Merchants can see their shipments only.
 
 ## Installation
 
