@@ -7,8 +7,8 @@
     "prefer-stable": true,
     "require": {
         "php": ">=7.3",
-        "spryker/merchant-shipment": "^0.2.1",
-        "spryker/merchant-shipment-gui": "^0.1.0",
+        "spryker/merchant-shipment": "^1.0.0",
+        "spryker/merchant-shipment-gui": "^1.0.0",
         "spryker/shipment": "^8.6.0",
         "spryker/shipment-data-import": "^1.0.0",
         "spryker/shipment-gui": "^2.3.0"
