@@ -6,16 +6,16 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "php": ">=7.4",
+        "php": ">=8.0",
         "spryker/merchant-shipment": "^1.0.0",
         "spryker/merchant-shipment-gui": "^1.0.0",
         "spryker/shipment": "^8.10.0",
         "spryker/shipment-data-import": "^1.1.0",
-        "spryker/shipment-gui": "^2.4.0"
+        "spryker/shipment-gui": "^2.6.0"
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202204.x-dev"
+            "dev-master": "202211.x-dev"
         }
     },
     "suggest": {
