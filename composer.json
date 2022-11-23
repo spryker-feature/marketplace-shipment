@@ -6,7 +6,7 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "php": ">=8.0",
+        "php": ">=7.4",
         "spryker/merchant-shipment": "^1.0.0",
         "spryker/merchant-shipment-gui": "^1.0.0",
         "spryker/shipment": "^8.10.0",
