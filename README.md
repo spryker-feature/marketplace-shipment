@@ -2,6 +2,8 @@
 
 The Marketplace orders are split into several shipments based on the merchants from which the items were bought.  Merchants can see their shipments only.
 
+[Learn more](https://docs.spryker.com/docs/pbc/all/carrier-management/202307.0/marketplace/marketplace-shipment-feature-overview.html)
+
 ## Installation
 
 ```
