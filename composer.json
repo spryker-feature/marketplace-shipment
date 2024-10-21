@@ -6,7 +6,7 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "php": ">=8.1",
+        "php": ">=8.2",
         "spryker/merchant-shipment": "^1.0.0",
         "spryker/merchant-shipment-gui": "^1.1.0",
         "spryker/shipment": "^8.21.0",
@@ -15,7 +15,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202407.x-dev"
+            "dev-master": "202410.x-dev"
         }
     },
     "suggest": {
